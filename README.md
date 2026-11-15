@@ -2,6 +2,8 @@
 
 SupportAI is an NLP-based machine learning application that predicts the category of a customer support ticket from its text description. It uses TF-IDF feature extraction and Logistic Regression, with a Streamlit interface for interactive classification.
 
+Live application: https://supportai-classifier.streamlit.app/
+
 ## 1. Project Overview
 
 The application helps organize incoming support requests by predicting one of 11 predefined categories. Users can enter a ticket, view the predicted category and estimated class probabilities, try sample tickets, clear the current ticket, and review prediction history.
