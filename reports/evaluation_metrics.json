@@ -1,0 +1,12 @@
+{
+    "total_records": 2000,
+    "training_records": 1600,
+    "testing_records": 400,
+    "accuracy": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0,
+    "f1_macro": 1.0,
+    "correct_predictions": 400,
+    "incorrect_predictions": 0
+}

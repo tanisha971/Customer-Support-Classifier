@@ -1,0 +1,19 @@
+CUSTOMER SUPPORT TICKET CLASSIFICATION REPORT
+
+                         precision    recall  f1-score   support
+
+     Account Management       1.00      1.00      1.00        41
+Authentication & Access       1.00      1.00      1.00        35
+                Billing       1.00      1.00      1.00        37
+          Bugs & Errors       1.00      1.00      1.00        32
+              Data Sync       1.00      1.00      1.00        35
+     Integrations & API       1.00      1.00      1.00        34
+    Onboarding & How-To       1.00      1.00      1.00        42
+            Performance       1.00      1.00      1.00        28
+                Refunds       1.00      1.00      1.00        47
+               Security       1.00      1.00      1.00        38
+           Subscription       1.00      1.00      1.00        31
+
+               accuracy                           1.00       400
+              macro avg       1.00      1.00      1.00       400
+           weighted avg       1.00      1.00      1.00       400
